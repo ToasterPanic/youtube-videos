@@ -1,5 +1,5 @@
 # ToasterPanic's videos
-An archive of all my YouTube videos (I don't trust YouTube anymore). These were all acquired via [ytmp3.cc](https://ytmp3.cc)
+An archive of all my new YouTube videos (I don't trust YouTube anymore). These were all acquired via [ytmp3.cc](https://ytmp3.cc)
 
 ## Copyright Notes
 Some of these use copyrighted music/content. Obviously I don't claim ownership of any of it. If you want me to take down a video because it contains copyrighted content, send me an email at me@owouw.us .
